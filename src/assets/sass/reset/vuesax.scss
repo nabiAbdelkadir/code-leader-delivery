@@ -1,0 +1,43 @@
+.vs-table__th {
+  background: transparent !important;
+  color: #b5bdc5 !important;
+}
+
+.vs-table__tbody td {
+  color: #3f4254 !important;
+}
+
+.vs-table__th, .vs-table__tbody td {
+  border-bottom: 1px dotted #eff2f5 !important;
+}
+
+td, th {
+  // width: 100%;
+  white-space: nowrap !important;
+  font-size: 1em !important;
+  font-weight: 500 !important;
+  color: rgb(126, 130, 153) !important;
+  padding: 1.2rem 2em!important;
+}
+
+.custom-td {
+  font-weight: 600;
+  color: rgb(63, 66, 84);
+  transition: color 0.5s ease-in-out;
+}
+
+.custom-td:hover span {
+  color: #009ef7;
+}
+
+.vs-checkbox-con {
+  width: 20px !important;
+  height: 20px !important;
+  background: #eff2f5 !important;
+  border-color: transparent !important;
+  border-style: none !important;
+}
+
+.text-gray-600 {
+  color: #7e8299;
+}

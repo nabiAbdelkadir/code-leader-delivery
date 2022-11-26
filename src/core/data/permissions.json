@@ -1,0 +1,244 @@
+[
+  {
+    "name": "En confirmation",
+    "items": [
+      "Annuler" ,
+      "Supprimer",
+      "Confirmer",
+      "Modifier",
+      "Assigner à un employé",
+      "Modifier la réduction",
+      "Modifier le prix de vente",
+      "Modifier les frais de livraison",
+      "Actions en masse"
+    ]
+  },
+  {
+    "name": "En préparation",
+    "items": [
+      "En préparation",
+      "Revenir en arrière",
+      "Annuler",
+      "Changer le livreur",
+      "Dispatcher",
+      "Imprimer les étiquettes",
+      "Exporter",
+      "Modifier",
+      "Modifier la réduction",
+      "Modifier le prix de vente",
+      "Modifier les frais de livraison",
+      "Actions en masse"
+    ]
+  },
+  {
+    "name": "En dispatch",
+    "items": [
+      "En dispatch",
+      "Annuler",
+      "Revenir en arrière",
+      "Changer le livreur",
+      "Imprimer les étiquettes",
+      "Imprimer la feuille de route",
+      "Expédier",
+      "Exporter",
+      "Modifier",
+      "Modifier la réduction",
+      "Modifier le prix de vente",
+      "Modifier les frais de livraison",
+      "Actions en masse",
+      "Désactiver la synchronisation"
+    ]
+  },
+  {
+    "name": "En livraison",
+    "items": [
+      "En livraison",
+      "Revenir en arrière",
+      "Changer le livreur",
+      "Demander le retour",
+      "Valider la livraison",
+      "Modifier",
+      "Modifier la réduction",
+      "Modifier le prix de vente",
+      "Modifier les frais de livraison",
+      "Actions en masse",
+      "Désactiver la synchronisation"
+    ]
+  },
+  {
+    "name": "Livrées",
+    "items": [
+      "Livrées",
+      "Revenir en arrière",
+      "Préparer le bon",
+      "Modifier",
+      "Modifier la réduction",
+      "Modifier le prix de vente",
+      "Modifier les frais de livraison",
+      "Actions en masse",
+      "Désactiver la synchronisation"
+    ]
+  },
+  {
+    "name": "Échouées",
+    "items": [
+      "Échouées",
+      "Revenir en arrière",
+      "Préparer le bon",
+      "Valider le retour",
+      "Modifier",
+      "Modifier la réduction",
+      "Modifier le prix de vente",
+      "Modifier les frais de livraison",
+      "Actions en masse",
+      "Désactiver la synchronisation"
+    ]
+  },
+  {
+    "name": "Bon d'encaissement",
+    "items": [
+      "Bon d'encaissement",
+      "Revenir en arrière",
+      "Confirmer",
+      "Actions en masse"
+    ]
+  },
+  {
+    "name": "Bons de retour",
+    "items": [
+      "Bons de retour",
+      "Revenir en arrière",
+      "Confirmer",
+      "Actions en masse"
+    ]
+  },
+  {
+    "name": "Annulées",
+    "items": [
+      "Annulées",
+      "Supprimer",
+      "Restaurer",
+      "Actions en masse"
+    ]
+  },
+  {
+    "name": "Archive encaisséss",
+    "items": [
+      "Archive encaisséss",
+      "Revenir en arrière",
+      "Actions en masse"
+    ]
+  },
+  {
+    "name": "Archive retournées",
+    "items": [
+      "Archive retournées",
+      "Revenir en arrière",
+      "Actions en masse"
+    ]
+  },
+  {
+    "name": "Configuration",
+    "items": [
+      "Configuration",
+      "Gestion des clients",
+      "Gestion de la livraison",
+      "Gestion des boutiques",
+      "Gestion des statuts",
+      "Gestion des utilisateurs",
+      "Gestion des rôles",
+      "Gestion des sources",
+      "Paramètres avancées"
+    ]
+  },
+  {
+    "name": "Produits",
+    "items": [
+      "Produits",
+      "Créer",
+      "Modifier",
+      "Supprimer",
+      "Voir le prix d'achat"
+    ]
+  },
+  {
+    "name": "Gestion de stock",
+    "items": [
+      "Gestion de stock",
+      "Modifier la quantité",
+      "Inventaire",
+      "Méga inventaire",
+      "Mouvement de stock"
+    ]
+  },
+  {
+    "name": "Statistiques",
+    "items": [
+      "Statistiques",
+      "Statistiques produit",
+      "Statistiques livraison",
+      "Statistiques confirmation",
+      "Statistiques des données"
+    ]
+  },
+  {
+    "name": "Comptabilité",
+    "items": [
+      "Comptabilité",
+      "Calculer le bilan",
+      "Saisir des charges"
+    ]
+  },
+  {
+    "name": "Pickups en collecte",
+    "items": [
+      "Pickups en collecte",
+      "Revenir en arrière",
+      "Annuler",
+      "Supprimer",
+      "Modifier",
+      "Valider la collecte",
+      "Désactiver la synchronisation",
+      "Actions en masse"
+    ]
+  },
+  {
+    "name": "Pickups collecté",
+    "items": [
+      "Pickups collecté",
+      "Revenir en arrière",
+      "Modifier",
+      "Préparer le bon",
+      "Valider la réception",
+      "Désactiver la synchronisation",
+      "Actions en masse"
+    ]
+  },
+  {
+    "name": "Pickups reçus",
+    "items": [
+      "Pickups reçus",
+      "Revenir en arrière",
+      "Modifier",
+      "Valider le traitement",
+      "Actions en masse"
+    ]
+  },
+  {
+    "name": "Pickups traités",
+    "items": [
+      "Pickups traités",
+      "Revenir en arrière",
+      "Actions en masse"
+    ]
+  },
+  {
+    "name": "Pickups annulés",
+    "items": [
+      "Pickups annulés ",
+      "Revenir en arrière",
+      "Supprimer",
+      "Actions en masse"
+    ]
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "nameFr": "En confirmation",
+    "nameAr": "قيد التأكيد",
+    "notificationSms": false
+  },
+  {
+    "id": 2,
+    "nameFr": "Téléphone éteint",
+    "nameAr": "هاتف مغلق",
+    "notificationSms": false
+  },
+  {
+    "id": 3,
+    "nameFr": "Reportée",
+    "nameAr": "يريد تأجيل الإستلام",
+    "notificationSms": false
+  },
+  {
+    "id": 4,
+    "nameFr": "Annulée par le client",
+    "nameAr": "يريد إلغاء الطلبية",
+    "notificationSms": false
+  },
+  {
+    "id": 5,
+    "nameFr": "Autre raison",
+    "nameAr": "سبب آخر",
+    "notificationSms": true
+  },
+  {
+    "id": 6,
+    "nameFr": "Appel 01 -Tentative 01",
+    "nameAr": "Appel 01 -Tentative 01",
+    "notificationSms": false
+  },
+  {
+    "id": 7,
+    "nameFr": "Appel 02 -Tentative 02",
+    "nameAr": "Appel 02 -Tentative 02",
+    "notificationSms": true
+  },
+  {
+    "id": 8,
+    "nameFr": "Appel 03 -Tentative 03",
+    "nameAr": "Appel 03 -Tentative 03",
+    "notificationSms": false
+  },
+  {
+    "id": 9,
+    "nameFr": "Rappel",
+    "nameAr": "Rappel",
+    "notificationSms": false
+  }
+]

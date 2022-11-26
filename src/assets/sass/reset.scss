@@ -1,0 +1,84 @@
+.card-root {
+  height: 80vh;
+  background: white;
+}
+
+.img-table {
+  width: 50px;
+  height: 50px;
+}
+
+.rounded-12 {
+  border-radius: 12px;
+}
+
+.rounded-8 {
+  border-radius: 8px;
+}
+
+.h-vh-80 {
+  height: 80vh;
+}
+
+.el-select {
+  width: 100% !important;
+}
+
+input.el-input__inner {
+  height: 44px;
+}
+
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+/*
+.el-select-dropdown.is-multiple .el-select-dropdown__item.selected {
+  background: #009ef7 !important; //   #409eff
+  color: white !important;
+  transition: color 0.2s ease, background-color 0.2s ease
+}
+
+.el-select-dropdown__item.hover, .el-select-dropdown__item:hover {
+  background-color: #f1faff !important;
+  color: #009ef7 !important;
+  transition: color 0.2s ease, background-color 0.2s ease !important;
+}
+
+.el-select-dropdown__item {
+  color: #5e6278;
+}
+*/
+
+input {
+  color: red;
+}
+
+.el-input__inner {
+  font-weight: 500 !important;
+}
+
+input::-webkit-input-placeholder {
+  font-weight: 500;
+}
+
+input::-ms-input-placeholder {
+  font-weight: 500;
+}
+
+input:-ms-input-placeholder {
+  font-weight: 500;
+}
+
+
+@import "./reset/vuesax";
+@import "./reset/bootstrap";
